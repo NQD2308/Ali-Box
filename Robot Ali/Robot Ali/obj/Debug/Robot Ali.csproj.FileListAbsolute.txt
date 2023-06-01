@@ -1,0 +1,11 @@
+D:\Hoa Sen University\IT\Thực hành công nghệ 1\Project\Robot Ali\Robot Ali\bin\Debug\Robot Ali.exe.config
+D:\Hoa Sen University\IT\Thực hành công nghệ 1\Project\Robot Ali\Robot Ali\bin\Debug\Robot Ali.exe
+D:\Hoa Sen University\IT\Thực hành công nghệ 1\Project\Robot Ali\Robot Ali\bin\Debug\Robot Ali.pdb
+D:\Hoa Sen University\IT\Thực hành công nghệ 1\Project\Robot Ali\Robot Ali\obj\Debug\Robot Ali.csproj.AssemblyReference.cache
+D:\Hoa Sen University\IT\Thực hành công nghệ 1\Project\Robot Ali\Robot Ali\obj\Debug\Robot Ali.csproj.SuggestedBindingRedirects.cache
+D:\Hoa Sen University\IT\Thực hành công nghệ 1\Project\Robot Ali\Robot Ali\obj\Debug\Robot_Ali.Form1.resources
+D:\Hoa Sen University\IT\Thực hành công nghệ 1\Project\Robot Ali\Robot Ali\obj\Debug\Robot_Ali.Properties.Resources.resources
+D:\Hoa Sen University\IT\Thực hành công nghệ 1\Project\Robot Ali\Robot Ali\obj\Debug\Robot Ali.csproj.GenerateResource.cache
+D:\Hoa Sen University\IT\Thực hành công nghệ 1\Project\Robot Ali\Robot Ali\obj\Debug\Robot Ali.csproj.CoreCompileInputs.cache
+D:\Hoa Sen University\IT\Thực hành công nghệ 1\Project\Robot Ali\Robot Ali\obj\Debug\Robot Ali.exe
+D:\Hoa Sen University\IT\Thực hành công nghệ 1\Project\Robot Ali\Robot Ali\obj\Debug\Robot Ali.pdb
